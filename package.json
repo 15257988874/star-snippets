@@ -3,6 +3,7 @@
   "displayName": "star-snippets",
   "description": "star-snippets",
   "version": "0.0.1",
+  "publisher": "luxuan",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/15257988874/star-snippets.git"
