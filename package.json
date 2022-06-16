@@ -6,7 +6,7 @@
   "publisher": "luxuan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/15257988874/star-snippets.git"
+    "url": "https://github.com/15257988874/star-snippets.git"
   },
   "engines": {
     "vscode": "^1.68.0"
